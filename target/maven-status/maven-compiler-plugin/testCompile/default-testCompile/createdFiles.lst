@@ -1,0 +1,4 @@
+com\virgin\games\crudtest\GETTest.class
+com\virgin\games\testbase\TestBase.class
+com\virgin\games\testsuite\UserAssertionTest.class
+com\virgin\games\testsuite\UserExtractionGBPTest.class
